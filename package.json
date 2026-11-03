@@ -8,9 +8,9 @@
     "aggregate:scoreboard": "node src/aggregate-scoreboard.js"
   },
   "dependencies": {
-    "args": "^5.0.1",
-    "axios": "^0.19.2",
-    "serve": "^11.3.2"
+    "args": "^5.0.3",
+    "axios": "^0.34.0",
+    "serve": "^14.2.6"
   },
   "keywords": [],
   "author": "",
