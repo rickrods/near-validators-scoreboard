@@ -8,7 +8,7 @@
     "aggregate:scoreboard": "node src/aggregate-scoreboard.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.34.0",
     "serve": "^11.3.2"
   },
   "keywords": [],
